@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="30" viewBox="0 0 1200 30" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="dline" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8FD0FF" stop-opacity="0"/>
+      <stop offset="0.30" stop-color="#5B84B8" stop-opacity="0.45"/>
+      <stop offset="0.50" stop-color="#CFE9FF" stop-opacity="0.95"/>
+      <stop offset="0.70" stop-color="#5B84B8" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#8FD0FF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="dhalo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#CFE9FF" stop-opacity="0.75"/>
+      <stop offset="0.55" stop-color="#8FD0FF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#8FD0FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="0" y="14.6" width="1200" height="0.8" fill="url(#dline)"/>
+  <circle cx="600" cy="15" r="16" fill="url(#dhalo)"/>
+  <circle cx="600" cy="15" r="2.2" fill="#EAF5FF"/>
+  <circle cx="600" cy="15" r="2.2" fill="#EAF5FF" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;0.15;0.5" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="384" cy="15" r="1.3" fill="#9BC8F0" opacity="0.75"/>
+  <circle cx="816" cy="15" r="1.3" fill="#9BC8F0" opacity="0.75"/>
+</svg>
