@@ -16,7 +16,9 @@
   <a href="https://music.163.com/song?id=3347283450"><img src="https://img.shields.io/badge/now%20playing-listen%20with%20me-2d8cff?style=flat-square" alt="now playing" /></a>
 </p>
 
-<img align="right" width="180" src="./mmexport1777910471674.gif" alt="清梦" />
+<table>
+  <tr>
+    <td width="70%" valign="top">
 
 ### 🌙 关于我
 
@@ -26,7 +28,14 @@
 - 做工具的信条：**能少点一次，就少点一次**
 - 写代码的时候，一首歌可以循环一整晚
 
-<br clear="right" />
+</td>
+    <td width="30%" align="center" valign="middle">
+
+<img width="150" src="./mmexport1777910471674.gif" alt="清梦" />
+
+</td>
+  </tr>
+</table>
 
 ### 🧰 技术栈
 
