@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ClearNightDream&theme=tokyo-night&hide_border=true&area=true&custom_title=%E6%9C%80%E8%BF%91%E7%9A%84%E8%B6%B3%E8%BF%B9" alt="activity" />
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClearNightDream&theme=tokyonight" alt="contribution details" />
 </p>
 
 ### 🧩 在做什么
